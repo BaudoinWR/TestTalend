@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_WWkC4JBLEeaqysE_7RM3hg" confirmationNeeded="false" name="Dev">
+    <contextParameter xmi:id="_WWkC4ZBLEeaqysE_7RM3hg" comment="" name="Customers_RowSeparator" prompt="Customers_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;"/>
+    <contextParameter xmi:id="_WWkC4pBLEeaqysE_7RM3hg" comment="" name="Customers_Header" prompt="Customers_Header?" promptNeeded="false" type="id_Integer" value="5"/>
+    <contextParameter xmi:id="_WWkC45BLEeaqysE_7RM3hg" comment="" name="Customers_File" prompt="Customers_File?" promptNeeded="false" type="id_File" value="C:/Users/BaudoinRibadeauDumas/Documents/Shop/customer.csv"/>
+    <contextParameter xmi:id="_WWkC5JBLEeaqysE_7RM3hg" comment="" name="Customers_FieldSeparator" prompt="Customers_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;"/>
+    <contextParameter xmi:id="_WWkC5ZBLEeaqysE_7RM3hg" comment="" name="Customers_Encoding" prompt="Customers_Encoding?" promptNeeded="false" type="id_String" value="US-ASCII"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_WWkC5pBLEeaqysE_7RM3hg" confirmationNeeded="false" name="Prod">
+    <contextParameter xmi:id="_WWkC55BLEeaqysE_7RM3hg" comment="" name="Customers_RowSeparator" prompt="Customers_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;"/>
+    <contextParameter xmi:id="_WWkC6JBLEeaqysE_7RM3hg" comment="" name="Customers_Header" prompt="Customers_Header?" promptNeeded="false" type="id_Integer" value="5"/>
+    <contextParameter xmi:id="_WWkC6ZBLEeaqysE_7RM3hg" comment="" name="Customers_File" prompt="Customers_File?" promptNeeded="false" type="id_File" value="C:/Users/BaudoinRibadeauDumas/Documents/Shop/customer.csv"/>
+    <contextParameter xmi:id="_WWkC6pBLEeaqysE_7RM3hg" comment="" name="Customers_FieldSeparator" prompt="Customers_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;"/>
+    <contextParameter xmi:id="_WWkC65BLEeaqysE_7RM3hg" comment="" name="Customers_Encoding" prompt="Customers_Encoding?" promptNeeded="false" type="id_String" value="US-ASCII"/>
+  </talendfile:ContextType>
+</xmi:XMI>

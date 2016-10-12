@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_WXTpwJBLEeaqysE_7RM3hg" confirmationNeeded="false" name="Dev">
+    <contextParameter xmi:id="_WXTpwZBLEeaqysE_7RM3hg" comment="" name="mysql_talend_Database" prompt="mysql_talend_Database?" promptNeeded="false" type="id_String" value="talend_intro"/>
+    <contextParameter xmi:id="_WXTpwpBLEeaqysE_7RM3hg" comment="" name="mysql_talend_Password" prompt="mysql_talend_Password?" promptNeeded="false" type="id_Password" value="YdTnhbqBAdo="/>
+    <contextParameter xmi:id="_WXTpw5BLEeaqysE_7RM3hg" comment="" name="mysql_talend_Login" prompt="mysql_talend_Login?" promptNeeded="false" type="id_String" value="talend"/>
+    <contextParameter xmi:id="_WXTpxJBLEeaqysE_7RM3hg" comment="" name="mysql_talend_AdditionalParams" prompt="mysql_talend_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+    <contextParameter xmi:id="_WXTpxZBLEeaqysE_7RM3hg" comment="" name="mysql_talend_Server" prompt="mysql_talend_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_WXTpxpBLEeaqysE_7RM3hg" comment="" name="mysql_talend_Port" prompt="mysql_talend_Port?" promptNeeded="false" type="id_Integer" value="3306"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_WXTpx5BLEeaqysE_7RM3hg" confirmationNeeded="false" name="Prod">
+    <contextParameter xmi:id="_WXTpyJBLEeaqysE_7RM3hg" comment="" name="mysql_talend_Database" prompt="mysql_talend_Database?" promptNeeded="false" type="id_String" value="talend_prod"/>
+    <contextParameter xmi:id="_WXTpyZBLEeaqysE_7RM3hg" comment="" name="mysql_talend_Password" prompt="mysql_talend_Password?" promptNeeded="false" type="id_Password" value="YdTnhbqBAdo="/>
+    <contextParameter xmi:id="_WXTpypBLEeaqysE_7RM3hg" comment="" name="mysql_talend_Login" prompt="mysql_talend_Login?" promptNeeded="false" type="id_String" value="talend"/>
+    <contextParameter xmi:id="_WXTpy5BLEeaqysE_7RM3hg" comment="" name="mysql_talend_AdditionalParams" prompt="mysql_talend_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+    <contextParameter xmi:id="_WXTpzJBLEeaqysE_7RM3hg" comment="" name="mysql_talend_Server" prompt="mysql_talend_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_WXTpzZBLEeaqysE_7RM3hg" comment="" name="mysql_talend_Port" prompt="mysql_talend_Port?" promptNeeded="false" type="id_Integer" value="3306"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_WXTpzpBLEeaqysE_7RM3hg" confirmationNeeded="false" name="Test">
+    <contextParameter xmi:id="_WXTpz5BLEeaqysE_7RM3hg" comment="" name="mysql_talend_Database" prompt="mysql_talend_Database?" promptNeeded="false" type="id_String" value="talend_intro"/>
+    <contextParameter xmi:id="_WXTp0JBLEeaqysE_7RM3hg" comment="" name="mysql_talend_Password" prompt="mysql_talend_Password?" promptNeeded="false" type="id_Password" value="YdTnhbqBAdo="/>
+    <contextParameter xmi:id="_WXTp0ZBLEeaqysE_7RM3hg" comment="" name="mysql_talend_Login" prompt="mysql_talend_Login?" promptNeeded="false" type="id_String" value="talend"/>
+    <contextParameter xmi:id="_WXTp0pBLEeaqysE_7RM3hg" comment="" name="mysql_talend_AdditionalParams" prompt="mysql_talend_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+    <contextParameter xmi:id="_WXTp05BLEeaqysE_7RM3hg" comment="" name="mysql_talend_Server" prompt="mysql_talend_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_WXTp1JBLEeaqysE_7RM3hg" comment="" name="mysql_talend_Port" prompt="mysql_talend_Port?" promptNeeded="false" type="id_Integer" value="3306"/>
+  </talendfile:ContextType>
+</xmi:XMI>

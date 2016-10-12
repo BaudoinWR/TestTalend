@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_WXAHwJBLEeaqysE_7RM3hg" confirmationNeeded="false" name="Dev">
+    <contextParameter xmi:id="_WXAHwZBLEeaqysE_7RM3hg" comment="" name="Products_RowSeparator" prompt="Products_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;"/>
+    <contextParameter xmi:id="_WXAHwpBLEeaqysE_7RM3hg" comment="" name="Products_Header" prompt="Products_Header?" promptNeeded="false" type="id_Integer" value="1"/>
+    <contextParameter xmi:id="_WXAHw5BLEeaqysE_7RM3hg" comment="" name="Products_File" prompt="Products_File?" promptNeeded="false" type="id_File" value="C:/Users/BaudoinRibadeauDumas/Documents/Shop/Products.csv"/>
+    <contextParameter xmi:id="_WXAHxJBLEeaqysE_7RM3hg" comment="" name="Products_FieldSeparator" prompt="Products_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;"/>
+    <contextParameter xmi:id="_WXAHxZBLEeaqysE_7RM3hg" comment="" name="Products_Encoding" prompt="Products_Encoding?" promptNeeded="false" type="id_String" value="US-ASCII"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_WXAHxpBLEeaqysE_7RM3hg" confirmationNeeded="false" name="Prod">
+    <contextParameter xmi:id="_WXAHx5BLEeaqysE_7RM3hg" comment="" name="Products_RowSeparator" prompt="Products_RowSeparator?" promptNeeded="false" type="id_String" value="&quot;\n&quot;"/>
+    <contextParameter xmi:id="_WXAHyJBLEeaqysE_7RM3hg" comment="" name="Products_Header" prompt="Products_Header?" promptNeeded="false" type="id_Integer" value="1"/>
+    <contextParameter xmi:id="_WXAHyZBLEeaqysE_7RM3hg" comment="" name="Products_File" prompt="Products_File?" promptNeeded="false" type="id_File" value="C:/Users/BaudoinRibadeauDumas/Documents/Shop/Products.csv"/>
+    <contextParameter xmi:id="_WXAHypBLEeaqysE_7RM3hg" comment="" name="Products_FieldSeparator" prompt="Products_FieldSeparator?" promptNeeded="false" type="id_String" value="&quot;;&quot;"/>
+    <contextParameter xmi:id="_WXAHy5BLEeaqysE_7RM3hg" comment="" name="Products_Encoding" prompt="Products_Encoding?" promptNeeded="false" type="id_String" value="US-ASCII"/>
+  </talendfile:ContextType>
+</xmi:XMI>
