@@ -298,7 +298,7 @@
     <elementParameter field="CHECK" name="ACTIVEBREAKPOINT" value="true"/>
     <elementParameter field="TABLE" name="CONDITIONS">
       <elementValue elementRef="INPUT_COLUMN" value="FirstName"/>
-      <elementValue elementRef="FUNCTION" value="$source == null? false : $source.matches($target) $operator true"/>
+      <elementValue elementRef="FUNCTION" value=""/>
       <elementValue elementRef="OPERATOR" value="=="/>
       <elementValue elementRef="RVALUE" value="&quot;A*&quot;"/>
     </elementParameter>
