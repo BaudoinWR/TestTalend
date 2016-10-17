@@ -108,7 +108,7 @@
   </parameters>
   <node componentName="tRowGenerator" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="288" posY="128">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tRowGenerator_1" show="false"/>
-    <elementParameter field="TEXT" name="NB_ROWS" value="1000000" show="false"/>
+    <elementParameter field="TEXT" name="NB_ROWS" value="5000000" show="false"/>
     <elementParameter field="TABLE" name="VALUES" show="false">
       <elementValue elementRef="SCHEMA_COLUMN" value="RandString"/>
       <elementValue elementRef="ARRAY" value="TalendString.getAsciiRandomString(6 )"/>
@@ -154,7 +154,7 @@
   </node>
   <node componentName="tRowGenerator" componentVersion="0.102" offsetLabelX="0" offsetLabelY="0" posX="288" posY="256">
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tRowGenerator_2" show="false"/>
-    <elementParameter field="TEXT" name="NB_ROWS" value="1000000" show="false"/>
+    <elementParameter field="TEXT" name="NB_ROWS" value="5000000" show="false"/>
     <elementParameter field="TABLE" name="VALUES" show="false">
       <elementValue elementRef="SCHEMA_COLUMN" value="RandString"/>
       <elementValue elementRef="ARRAY" value="TalendString.getAsciiRandomString(6 )"/>
@@ -162,7 +162,7 @@
     <elementParameter field="EXTERNAL" name="MAP" value=""/>
     <elementParameter field="TEXT" name="CONNECTION_FORMAT" value="row"/>
     <metadata connector="FLOW" name="tRowGenerator_2">
-      <column comment="" key="false" length="-1" name="RandString" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
+      <column comment="" defaultValue="" key="false" length="-1" name="RandString" nullable="true" pattern="" precision="-1" sourceType="" type="id_String" originalLength="-1" usefulColumn="true"/>
     </metadata>
   </node>
   <node componentName="tFileOutputDelimited" componentVersion="0.101" offsetLabelX="0" offsetLabelY="0" posX="576" posY="256">
