@@ -110,7 +110,7 @@
     <elementParameter field="TEXT" name="UNIQUE_NAME" value="tRowGenerator_1" show="false"/>
     <elementParameter field="TECHNICAL" name="SCHEMA:SCHEMA_TYPE" value="REPOSITORY" show="false"/>
     <elementParameter field="TECHNICAL" name="SCHEMA:REPOSITORY_SCHEMA_TYPE" value="_Fg0PEI7dEeaGlrSbg_wW9A - metadata" show="false"/>
-    <elementParameter field="TEXT" name="NB_ROWS" value="500000000" show="false"/>
+    <elementParameter field="TEXT" name="NB_ROWS" value="50000" show="false"/>
     <elementParameter field="TABLE" name="VALUES" show="false">
       <elementValue elementRef="SCHEMA_COLUMN" value="ShopName"/>
       <elementValue elementRef="ARRAY" value="&quot;Shop 1&quot; "/>
