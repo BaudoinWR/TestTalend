@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_csFRsZ95EeaU5MAXUrBQxw" label="PersoTest" description="" language="java" technicalLabel="PERSOTEST" creationDate="2016-10-31T15:49:11.000+0100" author="_csFRsp95EeaU5MAXUrBQxw" productVersion="Talend Data Integration-6.2.1.20160704_1411" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/veryeld/PersoTest.git&quot;,&quot;login&quot;:&quot;veryeld&quot;,&quot;passwd&quot;:&quot;vzC0d+ZAHz7W6ufl20MLVA==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI"/>
+  <TalendProperties:User xmi:id="_csFRsp95EeaU5MAXUrBQxw" login="bribadeau@talend.com" firstName="admin" lastName="admin" type="DI" additionnalData="{}"/>
+</xmi:XMI>
