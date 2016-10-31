@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties" xmlns:model="http://www.talend.com/joblet.ecore">
+  <model:JobletProcess>
+    <parameters>
+      <routinesParameter id="_Xe_II4_KEeaNiv9zfAROEg" name="DataOperation"/>
+      <routinesParameter id="_Xfb0EI_KEeaNiv9zfAROEg" name="Mathematical"/>
+      <routinesParameter id="_XfllEI_KEeaNiv9zfAROEg" name="Numeric"/>
+      <routinesParameter id="_Xfv9II_KEeaNiv9zfAROEg" name="Relational"/>
+      <routinesParameter id="_XeZSQo_KEeaNiv9zfAROEg" name="SQLike"/>
+      <routinesParameter id="_Xfv9JI_KEeaNiv9zfAROEg" name="StringHandling"/>
+      <routinesParameter id="_XgBp8I_KEeaNiv9zfAROEg" name="TalendDataGenerator"/>
+      <routinesParameter id="_XgLa8I_KEeaNiv9zfAROEg" name="TalendDate"/>
+      <routinesParameter id="_XgVL8I_KEeaNiv9zfAROEg" name="TalendString"/>
+    </parameters>
+  </model:JobletProcess>
+  <TalendProperties:ByteArray/>
+</xmi:XMI>
